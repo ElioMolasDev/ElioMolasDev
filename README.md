@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliomolasdev&label=Profile%20views&color=0e75b6&style=flat" alt="eliomolasdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliomolasdev" alt="eliomolasdev" /></a> </p>
-
 - 🌱 Actualmente estoy aprendiendo **Cursos en Educacion IT, Grow With Google**
 
 - 📫 Contáctame **eliomolas.dev@gmail.com**
