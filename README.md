@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, soy Elio Molas</h1>
+
 # 💫 About Me:
-Estudiante de Licenciatura en sistemas y en formación como<br>desarrollador web full stack. Apasionado por la programación y<br>la resolución de problemas. Soy una persona proactiva, con la<br>capacidad de trabajar en equipo, comunicarme eficazmente y<br>con pensamiento analítico.
+Estudiante de Licenciatura en sistemas y en formación como<br>desarrollador web full stack. Apasionado por la programación y la resolución de problemas. <br>Soy una persona proactiva, con la capacidad de trabajar en equipo, comunicarme eficazmente y con pensamiento analítico.
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elio-molas-dev) 
